@@ -1,0 +1,30 @@
+Transation Details from trading strategy coin-toss
+
+-------------- Transaction 1 ----------------
+order_side = BUY
+filled_qty = 3
+filled_avg_price = 1514.7
+filled_at = 2022-07-25 20:33:57.045177680+00:00
+
+
+-------------- Transaction 2 ----------------
+order_side = SELL
+filled_qty = 3
+filled_avg_price = 1514.4
+filled_at = 2022-07-25 20:34:09.492960441+00:00
+
+
+-------------- Transaction 3 ----------------
+order_side = BUY
+filled_qty = 3
+filled_avg_price = 1514.7
+filled_at = 2022-07-25 20:34:38.133761210+00:00
+
+
+-------------- Transaction 4 ----------------
+order_side = SELL
+filled_qty = 3
+filled_avg_price = 1515.1
+filled_at = 2022-07-25 20:34:50.478456047+00:00
+
+

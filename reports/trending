@@ -1,0 +1,20 @@
+Transation Details from trading strategy coin-toss
+
+Trade Symbol = ETHUSD
+Quantity traded with at a time = 2
+Max buy and sell combined transactions = 1
+
+-------------- Transaction 1 ----------------
+order_side = BUY
+filled_qty = 2
+filled_avg_price = 1518.9
+filled_at = 2022-07-25 03:17:00.574652420+00:00
+
+
+-------------- Transaction 2 ----------------
+order_side = SELL
+filled_qty = 2
+filled_avg_price = 1519
+filled_at = 2022-07-25 03:17:20.904169179+00:00
+
+

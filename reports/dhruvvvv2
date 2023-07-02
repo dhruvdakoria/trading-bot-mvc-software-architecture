@@ -1,0 +1,9 @@
+Transation Details from trading strategy moving-avg-crossover
+
+-------------- Transaction 1 ----------------
+order_side = SELL
+filled_qty = 1
+filled_avg_price = 1527.3
+filled_at = 2022-07-25 06:14:59.391488244+00:00
+
+

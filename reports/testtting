@@ -1,0 +1,16 @@
+Transation Details from trading strategy moving-avg-crossover
+
+-------------- Transaction 1 ----------------
+order_side = BUY
+filled_qty = 2
+filled_avg_price = 23310
+filled_at = 2022-08-08 03:01:19.237988105+00:00
+
+
+-------------- Transaction 2 ----------------
+order_side = SELL
+filled_qty = 2
+filled_avg_price = 23261
+filled_at = 2022-08-08 03:08:00.616376701+00:00
+
+

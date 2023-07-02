@@ -1,0 +1,1215 @@
+2022-07-24 23:05:52.646000: Selected main page option 2
+2022-07-24 23:05:52.982815: Report names retrieved: ['dhruvdakoria', 'dhruv2', 'reportdhruv']
+2022-07-24 23:06:03.355015: Printing report: name=reportdhruv
+2022-07-24 23:06:03.573975: Retrieved report data for report id: 3
+2022-07-24 23:06:03.574078: Base report and decorators created
+2022-07-24 23:06:03.574509: Building report reportdhruv with strategy name coin-toss
+2022-07-24 23:06:03.575088: Report written to file: dhruvnewreport
+2022-07-24 23:06:03.575129: Time to generate report: 0.22s
+2022-07-24 23:11:34.780043: Selected main page option 3
+2022-07-24 23:13:36.180795: Selected main page option 1
+2022-07-24 23:13:50.999891: Created report: name=trending
+2022-07-24 23:14:08.250639: ------ Executing Coin Toss Trading Strategy with BTCUSD, quantity: 2, max buy&sell transations: 2 ----------- 
+2022-07-24 23:14:08.630907: Holding: 0 / Buy: False
+2022-07-24 23:14:08.630964: Lets wait for the 8s before next decision...
+2022-07-24 23:14:08.630983: ********************
+2022-07-24 23:14:16.744619: Holding: 0 / Buy: True
+2022-07-24 23:14:16.744676: The almighty has decided:
+2022-07-24 23:14:16.744697: Symbol: BTCUSD / Side: BUY / Quantity: 2
+2022-07-24 23:14:20.862828: Lets wait for the 8s before next decision...
+2022-07-24 23:14:20.862879: ********************
+2022-07-24 23:14:28.929037: Holding: 2.0 / Buy: True
+2022-07-24 23:14:28.929094: Lets wait for the 8s before next decision...
+2022-07-24 23:14:28.929112: ********************
+2022-07-24 23:14:36.985917: Holding: 2.0 / Buy: False
+2022-07-24 23:14:36.985975: The almighty has decided:
+2022-07-24 23:14:36.985996: Symbol: BTCUSD / Side: SELL / Quantity: 2
+2022-07-24 23:14:41.107430: Lets wait for the 8s before next decision...
+2022-07-24 23:14:41.107458: ********************
+2022-07-24 23:14:49.160503: Holding: 0 / Buy: False
+2022-07-24 23:14:49.160532: Lets wait for the 8s before next decision...
+2022-07-24 23:14:49.160541: ********************
+2022-07-24 23:14:57.214258: Holding: 0 / Buy: False
+2022-07-24 23:14:57.214315: Lets wait for the 8s before next decision...
+2022-07-24 23:14:57.214334: ********************
+2022-07-24 23:15:05.269853: Holding: 0 / Buy: False
+2022-07-24 23:15:05.269888: Lets wait for the 8s before next decision...
+2022-07-24 23:15:05.269898: ********************
+2022-07-24 23:15:13.316641: Holding: 0 / Buy: False
+2022-07-24 23:15:13.316672: Lets wait for the 8s before next decision...
+2022-07-24 23:15:13.316682: ********************
+2022-07-24 23:15:21.377387: Holding: 0 / Buy: True
+2022-07-24 23:15:21.377445: The almighty has decided:
+2022-07-24 23:15:21.377466: Symbol: BTCUSD / Side: BUY / Quantity: 2
+2022-07-24 23:15:25.488146: Lets wait for the 8s before next decision...
+2022-07-24 23:15:25.488199: ********************
+2022-07-24 23:15:33.562532: Holding: 2.0 / Buy: False
+2022-07-24 23:15:33.562591: The almighty has decided:
+2022-07-24 23:15:33.562612: Symbol: BTCUSD / Side: SELL / Quantity: 2
+2022-07-24 23:15:37.673524: Lets wait for the 8s before next decision...
+2022-07-24 23:15:37.673551: ********************
+2022-07-24 23:17:00.087648: ------ Executing Coin Toss Trading Strategy with ETHUSD, quantity: 2, max buy&sell transations: 1 ----------- 
+2022-07-24 23:17:00.457376: Holding: 0 / Buy: True
+2022-07-24 23:17:00.457434: The almighty has decided:
+2022-07-24 23:17:00.457454: Symbol: ETHUSD / Side: BUY / Quantity: 2
+2022-07-24 23:17:04.571584: Lets wait for the 8s before next decision...
+2022-07-24 23:17:04.571633: ********************
+2022-07-24 23:17:12.637872: Holding: 2.0 / Buy: True
+2022-07-24 23:17:12.637930: Lets wait for the 8s before next decision...
+2022-07-24 23:17:12.637949: ********************
+2022-07-24 23:17:20.708046: Holding: 2.0 / Buy: False
+2022-07-24 23:17:20.708104: The almighty has decided:
+2022-07-24 23:17:20.708125: Symbol: ETHUSD / Side: SELL / Quantity: 2
+2022-07-24 23:17:24.960958: Lets wait for the 8s before next decision...
+2022-07-24 23:17:24.961011: ********************
+2022-07-24 23:17:55.909693: 
+
+Report successfully inserted into database: name=trending
+2022-07-24 23:17:55.909811: Finished created report
+
+2022-07-24 23:18:09.521342: Selected main page option 2
+2022-07-24 23:18:09.692028: Report names retrieved: ['dhruvdakoria', 'dhruv2', 'reportdhruv', 'trending']
+2022-07-24 23:18:19.871431: Printing report: name=trending
+2022-07-24 23:18:20.042379: Retrieved report data for report id: 4
+2022-07-24 23:18:20.042503: Base report and decorators created
+2022-07-24 23:18:20.042952: Building report trending with strategy name coin-toss
+2022-07-24 23:18:20.043294: Report trending with strategy name coin-toss created
+2022-07-24 23:18:20.043525: Report written to file: trending
+2022-07-24 23:18:20.043563: Time to generate report: 0.172s
+2022-07-24 23:18:40.287006: Selected main page option 3
+2022-07-25 01:25:11.215639: ------ Executing Moving Avg Crossover Trading Strategy with ETHUSD, quantity: 2, run time: 3 mins ----------- 
+2022-07-25 01:26:50.716058: ------ Executing Moving Avg Crossover Trading Strategy with ETHUSD, quantity: 2, run time: 3 mins ----------- 
+2022-07-25 01:26:51.476898: Fast 1526.4558333333334  /  Slow: 1525.0400000000002
+2022-07-25 01:26:51.476973: Position: 0 / Should Buy: True
+2022-07-25 01:26:55.597012: Symbol: ETHUSD / Side: BUY / Quantity: 2 / Price: $1523.95
+2022-07-25 01:27:51.965488: ------ Executing Moving Avg Crossover Trading Strategy with ETHUSD, quantity: 2, run time: 3 mins ----------- 
+2022-07-25 01:27:52.676097: Fast 1526.3666666666666  /  Slow: 1525.1612499999999
+2022-07-25 01:27:52.676170: Position: 2.0 / Should Buy: True
+2022-07-25 01:27:52.676242: Sleep for 7
+2022-07-25 01:27:59.679878: ********************
+2022-07-25 01:27:59.794188: Fast 1526.3666666666666  /  Slow: 1525.1612499999999
+2022-07-25 01:27:59.794264: Position: 2.0 / Should Buy: True
+2022-07-25 01:27:59.794323: Sleep for 0
+2022-07-25 01:27:59.794346: ********************
+2022-07-25 01:27:59.903065: Fast 1526.3666666666666  /  Slow: 1525.1612499999999
+2022-07-25 01:27:59.903141: Position: 2.0 / Should Buy: True
+2022-07-25 01:27:59.903201: Sleep for 0
+2022-07-25 01:27:59.903224: ********************
+2022-07-25 01:28:00.009246: Fast 1526.3666666666666  /  Slow: 1525.1612499999999
+2022-07-25 01:28:00.009321: Position: 2.0 / Should Buy: True
+2022-07-25 01:28:00.009380: Sleep for 59
+2022-07-25 01:28:59.014405: ********************
+2022-07-25 01:28:59.142129: Fast 1525.8358333333333  /  Slow: 1525.2516666666668
+2022-07-25 01:28:59.142180: Position: 2.0 / Should Buy: True
+2022-07-25 01:28:59.142223: Sleep for 0
+2022-07-25 01:28:59.142240: ********************
+2022-07-25 01:28:59.250286: Fast 1525.8358333333333  /  Slow: 1525.2516666666668
+2022-07-25 01:28:59.250367: Position: 2.0 / Should Buy: True
+2022-07-25 01:28:59.250429: Sleep for 0
+2022-07-25 01:28:59.250453: ********************
+2022-07-25 01:28:59.366143: Fast 1525.8358333333333  /  Slow: 1525.2516666666668
+2022-07-25 01:28:59.366220: Position: 2.0 / Should Buy: True
+2022-07-25 01:28:59.366280: Sleep for 0
+2022-07-25 01:28:59.366303: ********************
+2022-07-25 01:28:59.490221: Fast 1525.8358333333333  /  Slow: 1525.2516666666668
+2022-07-25 01:28:59.490300: Position: 2.0 / Should Buy: True
+2022-07-25 01:28:59.490360: Sleep for 0
+2022-07-25 01:28:59.490383: ********************
+2022-07-25 01:28:59.611578: Fast 1525.8358333333333  /  Slow: 1525.2516666666668
+2022-07-25 01:28:59.611656: Position: 2.0 / Should Buy: True
+2022-07-25 01:28:59.611715: Sleep for 0
+2022-07-25 01:28:59.611739: ********************
+2022-07-25 01:28:59.721910: Fast 1525.8358333333333  /  Slow: 1525.2516666666668
+2022-07-25 01:28:59.721985: Position: 2.0 / Should Buy: True
+2022-07-25 01:28:59.722046: Sleep for 0
+2022-07-25 01:28:59.722070: ********************
+2022-07-25 01:28:59.832857: Fast 1525.8358333333333  /  Slow: 1525.2516666666668
+2022-07-25 01:28:59.832934: Position: 2.0 / Should Buy: True
+2022-07-25 01:28:59.832994: Sleep for 0
+2022-07-25 01:28:59.833018: ********************
+2022-07-25 01:28:59.970995: Fast 1525.8358333333333  /  Slow: 1525.2516666666668
+2022-07-25 01:28:59.971071: Position: 2.0 / Should Buy: True
+2022-07-25 01:28:59.971130: Sleep for 0
+2022-07-25 01:28:59.971154: ********************
+2022-07-25 01:29:00.077085: Fast 1525.1191666666666  /  Slow: 1525.2408333333333
+2022-07-25 01:29:00.077136: Position: 2.0 / Should Buy: False
+2022-07-25 01:30:04.964464: ------ Executing Moving Avg Crossover Trading Strategy with ETHUSD, quantity: 1, run time: 3 mins ----------- 
+2022-07-25 01:30:05.755600: Fast 1524.1566666666668  /  Slow: 1524.97875
+2022-07-25 01:30:05.755679: Position: 0 / Should Buy: False
+2022-07-25 01:30:05.755751: Sleep for 54
+2022-07-25 01:30:59.757449: ********************
+2022-07-25 01:30:59.866737: Fast 1524.158333333333  /  Slow: 1524.9795833333335
+2022-07-25 01:30:59.866811: Position: 0 / Should Buy: False
+2022-07-25 01:30:59.866869: Sleep for 0
+2022-07-25 01:30:59.866893: ********************
+2022-07-25 01:30:59.973144: Fast 1524.158333333333  /  Slow: 1524.9795833333335
+2022-07-25 01:30:59.973222: Position: 0 / Should Buy: False
+2022-07-25 01:30:59.973283: Sleep for 0
+2022-07-25 01:30:59.973306: ********************
+2022-07-25 01:31:00.072308: Fast 1523.335  /  Slow: 1524.635
+2022-07-25 01:31:00.072382: Position: 0 / Should Buy: False
+2022-07-25 01:31:00.072442: Sleep for 59
+2022-07-25 01:31:59.078395: ********************
+2022-07-25 01:31:59.204772: Fast 1523.3083333333334  /  Slow: 1524.6216666666667
+2022-07-25 01:31:59.204845: Position: 0 / Should Buy: False
+2022-07-25 01:31:59.204905: Sleep for 0
+2022-07-25 01:31:59.204929: ********************
+2022-07-25 01:31:59.309776: Fast 1523.3083333333334  /  Slow: 1524.6216666666667
+2022-07-25 01:31:59.309851: Position: 0 / Should Buy: False
+2022-07-25 01:31:59.309908: Sleep for 0
+2022-07-25 01:31:59.309932: ********************
+2022-07-25 01:31:59.423112: Fast 1523.3083333333334  /  Slow: 1524.6216666666667
+2022-07-25 01:31:59.423186: Position: 0 / Should Buy: False
+2022-07-25 01:31:59.423246: Sleep for 0
+2022-07-25 01:31:59.423270: ********************
+2022-07-25 01:31:59.535935: Fast 1523.3083333333334  /  Slow: 1524.6216666666667
+2022-07-25 01:31:59.536010: Position: 0 / Should Buy: False
+2022-07-25 01:31:59.536067: Sleep for 0
+2022-07-25 01:31:59.536091: ********************
+2022-07-25 01:31:59.663663: Fast 1523.3083333333334  /  Slow: 1524.6216666666667
+2022-07-25 01:31:59.663736: Position: 0 / Should Buy: False
+2022-07-25 01:31:59.663796: Sleep for 0
+2022-07-25 01:31:59.663821: ********************
+2022-07-25 01:31:59.776950: Fast 1523.3083333333334  /  Slow: 1524.6216666666667
+2022-07-25 01:31:59.777025: Position: 0 / Should Buy: False
+2022-07-25 01:31:59.777084: Sleep for 0
+2022-07-25 01:31:59.777107: ********************
+2022-07-25 01:31:59.884980: Fast 1523.3083333333334  /  Slow: 1524.6216666666667
+2022-07-25 01:31:59.885055: Position: 0 / Should Buy: False
+2022-07-25 01:31:59.885117: Sleep for 0
+2022-07-25 01:31:59.885140: ********************
+2022-07-25 01:31:59.991910: Fast 1523.3083333333334  /  Slow: 1524.6216666666667
+2022-07-25 01:31:59.991986: Position: 0 / Should Buy: False
+2022-07-25 01:31:59.992044: Sleep for 0
+2022-07-25 01:31:59.992068: ********************
+2022-07-25 01:32:00.100265: Fast 1522.845833333333  /  Slow: 1524.4733333333334
+2022-07-25 01:32:00.100317: Position: 0 / Should Buy: False
+2022-07-25 01:32:00.100361: Sleep for 59
+2022-07-25 01:32:59.102567: ********************
+2022-07-25 01:32:59.217357: Fast 1522.845833333333  /  Slow: 1524.4733333333334
+2022-07-25 01:32:59.217432: Position: 0 / Should Buy: False
+2022-07-25 01:32:59.217491: Sleep for 0
+2022-07-25 01:32:59.217515: ********************
+2022-07-25 01:32:59.335039: Fast 1522.845833333333  /  Slow: 1524.4733333333334
+2022-07-25 01:32:59.335112: Position: 0 / Should Buy: False
+2022-07-25 01:32:59.335172: Sleep for 0
+2022-07-25 01:32:59.335196: ********************
+2022-07-25 01:32:59.469057: Fast 1522.845833333333  /  Slow: 1524.4733333333334
+2022-07-25 01:32:59.469132: Position: 0 / Should Buy: False
+2022-07-25 01:32:59.469191: Sleep for 0
+2022-07-25 01:32:59.469214: ********************
+2022-07-25 01:32:59.595188: Fast 1522.845833333333  /  Slow: 1524.4733333333334
+2022-07-25 01:32:59.595263: Position: 0 / Should Buy: False
+2022-07-25 01:32:59.595322: Sleep for 0
+2022-07-25 01:32:59.595346: ********************
+2022-07-25 01:32:59.730013: Fast 1522.845833333333  /  Slow: 1524.4733333333334
+2022-07-25 01:32:59.730086: Position: 0 / Should Buy: False
+2022-07-25 01:32:59.730144: Sleep for 0
+2022-07-25 01:32:59.730168: ********************
+2022-07-25 01:32:59.839196: Fast 1522.845833333333  /  Slow: 1524.4733333333334
+2022-07-25 01:32:59.839269: Position: 0 / Should Buy: False
+2022-07-25 01:32:59.839328: Sleep for 0
+2022-07-25 01:32:59.839352: ********************
+2022-07-25 01:32:59.955030: Fast 1522.845833333333  /  Slow: 1524.4733333333334
+2022-07-25 01:32:59.955080: Position: 0 / Should Buy: False
+2022-07-25 01:32:59.955120: Sleep for 0
+2022-07-25 01:32:59.955135: ********************
+2022-07-25 01:33:00.175192: Fast 1522.845833333333  /  Slow: 1524.4733333333334
+2022-07-25 01:33:00.175237: Position: 0 / Should Buy: False
+2022-07-25 01:33:00.175275: Sleep for 59
+2022-07-25 01:33:59.181158: ********************
+2022-07-25 02:07:53.337444: ------ Executing Moving Avg Crossover Trading Strategy with ETHUSD, quantity: 1, run time: 3 mins ----------- 
+2022-07-25 02:07:54.227320: Fast 1527.7341666666669  /  Slow: 1526.6883333333335
+2022-07-25 02:07:54.227396: Position: 0 / Should Buy: True
+2022-07-25 02:07:58.340753: Symbol: ETHUSD / Side: BUY / Quantity: 1 / Price: $1526.4
+2022-07-25 02:07:58.340937: Sleep for 1
+2022-07-25 02:07:59.345151: ********************
+2022-07-25 02:07:59.464016: Fast 1527.7341666666669  /  Slow: 1526.6883333333335
+2022-07-25 02:07:59.464092: Position: 1.0 / Should Buy: True
+2022-07-25 02:07:59.464150: Sleep for 0
+2022-07-25 02:07:59.464174: ********************
+2022-07-25 02:07:59.573834: Fast 1527.7341666666669  /  Slow: 1526.6883333333335
+2022-07-25 02:07:59.573906: Position: 1.0 / Should Buy: True
+2022-07-25 02:07:59.573965: Sleep for 0
+2022-07-25 02:07:59.573989: ********************
+2022-07-25 02:07:59.984576: Fast 1527.7341666666669  /  Slow: 1526.6883333333335
+2022-07-25 02:07:59.984654: Position: 1.0 / Should Buy: True
+2022-07-25 02:07:59.984713: Sleep for 0
+2022-07-25 02:07:59.984738: ********************
+2022-07-25 02:08:00.100049: Fast 1527.694166666667  /  Slow: 1526.7249999999997
+2022-07-25 02:08:00.100125: Position: 1.0 / Should Buy: True
+2022-07-25 02:08:00.100183: Sleep for 59
+2022-07-25 02:08:29.739259: ------ Executing Moving Avg Crossover Trading Strategy with ETHUSD, quantity: 1, run time: 3 mins ----------- 
+2022-07-25 02:08:30.437218: Fast 1527.694166666667  /  Slow: 1526.7249999999997
+2022-07-25 02:08:30.437294: Position: 1.0 / Should Buy: True
+2022-07-25 02:08:30.437366: Sleep for 29
+2022-07-25 02:09:35.326981: Selected main page option 2
+2022-07-25 02:09:35.851510: Report names retrieved: ['dhruvdakoria', 'dhruv2', 'reportdhruv', 'trending']
+2022-07-25 02:09:42.931518: Printing report: name=trending
+2022-07-25 02:09:43.081043: Retrieved report data for report id: 4
+2022-07-25 02:11:39.691526: Selected main page option 2
+2022-07-25 02:11:40.005644: Report names retrieved: ['dhruvdakoria', 'dhruv2', 'reportdhruv', 'trending']
+2022-07-25 02:11:45.557616: Printing report: name=reportdhruv
+2022-07-25 02:11:45.703603: Retrieved report data for report id: 3
+2022-07-25 02:11:45.736606: Base report and decorators created
+2022-07-25 02:11:45.737066: Building report reportdhruv with strategy name coin-toss
+2022-07-25 02:11:45.737265: Report reportdhruv with strategy name coin-toss created
+2022-07-25 02:11:45.737486: Report written to file: trendyyy
+2022-07-25 02:11:45.737520: Time to generate report: 0.1798s
+2022-07-25 02:12:30.698978: Selected main page option 1
+2022-07-25 02:13:14.626714: Created report: name=dhruvvv2
+2022-07-25 02:13:56.299223: ------ Executing Moving Avg Crossover Trading Strategy with ETHUSD, quantity: 1, run time: 5 mins ----------- 
+2022-07-25 02:13:56.799110: Fast 1527.0133333333333  /  Slow: 1526.899583333333
+2022-07-25 02:13:56.799193: Position: 1.0 / Should Buy: True
+2022-07-25 02:13:56.799262: Sleep for 3
+2022-07-25 02:13:59.800680: ********************
+2022-07-25 02:13:59.915334: Fast 1527.0133333333333  /  Slow: 1526.899583333333
+2022-07-25 02:13:59.915409: Position: 1.0 / Should Buy: True
+2022-07-25 02:13:59.915468: Sleep for 0
+2022-07-25 02:13:59.915491: ********************
+2022-07-25 02:14:00.015599: Fast 1527.0133333333333  /  Slow: 1526.899583333333
+2022-07-25 02:14:00.015663: Position: 1.0 / Should Buy: True
+2022-07-25 02:14:00.015711: Sleep for 59
+2022-07-25 02:14:59.019221: ********************
+2022-07-25 02:14:59.188104: Fast 1526.9491666666665  /  Slow: 1526.9770833333332
+2022-07-25 02:14:59.188180: Position: 1.0 / Should Buy: False
+2022-07-25 02:15:03.310447: Symbol: ETHUSD / Side: SELL / Quantity: 1 / Price: $1527.3
+2022-07-25 02:15:03.310628: Sleep for 56
+2022-07-25 02:15:59.314500: ********************
+2022-07-25 02:15:59.438398: Fast 1527.0091666666667  /  Slow: 1527.0766666666668
+2022-07-25 02:15:59.438473: Position: 0 / Should Buy: False
+2022-07-25 02:15:59.438531: Sleep for 0
+2022-07-25 02:15:59.438555: ********************
+2022-07-25 02:15:59.552361: Fast 1527.0091666666667  /  Slow: 1527.0766666666668
+2022-07-25 02:15:59.552433: Position: 0 / Should Buy: False
+2022-07-25 02:15:59.552492: Sleep for 0
+2022-07-25 02:15:59.552516: ********************
+2022-07-25 02:15:59.673197: Fast 1527.0091666666667  /  Slow: 1527.0766666666668
+2022-07-25 02:15:59.673272: Position: 0 / Should Buy: False
+2022-07-25 02:15:59.673330: Sleep for 0
+2022-07-25 02:15:59.673354: ********************
+2022-07-25 02:15:59.786842: Fast 1527.0091666666667  /  Slow: 1527.0766666666668
+2022-07-25 02:15:59.786927: Position: 0 / Should Buy: False
+2022-07-25 02:15:59.786989: Sleep for 0
+2022-07-25 02:15:59.787013: ********************
+2022-07-25 02:15:59.896574: Fast 1527.0091666666667  /  Slow: 1527.0766666666668
+2022-07-25 02:15:59.896647: Position: 0 / Should Buy: False
+2022-07-25 02:15:59.896707: Sleep for 0
+2022-07-25 02:15:59.896732: ********************
+2022-07-25 02:16:00.003300: Fast 1527.0091666666667  /  Slow: 1527.0766666666668
+2022-07-25 02:16:00.003376: Position: 0 / Should Buy: False
+2022-07-25 02:16:00.003435: Sleep for 59
+2022-07-25 02:16:59.008801: ********************
+2022-07-25 02:16:59.142762: Fast 1527.0974999999999  /  Slow: 1527.1891666666668
+2022-07-25 02:16:59.142835: Position: 0 / Should Buy: False
+2022-07-25 02:16:59.142893: Sleep for 0
+2022-07-25 02:16:59.142917: ********************
+2022-07-25 02:16:59.251844: Fast 1527.0974999999999  /  Slow: 1527.1891666666668
+2022-07-25 02:16:59.251918: Position: 0 / Should Buy: False
+2022-07-25 02:16:59.251977: Sleep for 0
+2022-07-25 02:16:59.252001: ********************
+2022-07-25 02:16:59.361461: Fast 1527.0974999999999  /  Slow: 1527.1891666666668
+2022-07-25 02:16:59.361534: Position: 0 / Should Buy: False
+2022-07-25 02:16:59.361592: Sleep for 0
+2022-07-25 02:16:59.361616: ********************
+2022-07-25 02:16:59.486284: Fast 1527.0974999999999  /  Slow: 1527.1891666666668
+2022-07-25 02:16:59.486359: Position: 0 / Should Buy: False
+2022-07-25 02:16:59.486417: Sleep for 0
+2022-07-25 02:16:59.486441: ********************
+2022-07-25 02:16:59.603889: Fast 1527.0974999999999  /  Slow: 1527.1891666666668
+2022-07-25 02:16:59.603962: Position: 0 / Should Buy: False
+2022-07-25 02:16:59.604019: Sleep for 0
+2022-07-25 02:16:59.604042: ********************
+2022-07-25 02:16:59.722455: Fast 1527.0974999999999  /  Slow: 1527.1891666666668
+2022-07-25 02:16:59.722528: Position: 0 / Should Buy: False
+2022-07-25 02:16:59.722586: Sleep for 0
+2022-07-25 02:16:59.722609: ********************
+2022-07-25 02:16:59.836594: Fast 1527.0974999999999  /  Slow: 1527.1891666666668
+2022-07-25 02:16:59.836668: Position: 0 / Should Buy: False
+2022-07-25 02:16:59.836726: Sleep for 0
+2022-07-25 02:16:59.836750: ********************
+2022-07-25 02:16:59.951445: Fast 1527.0974999999999  /  Slow: 1527.1891666666668
+2022-07-25 02:16:59.951520: Position: 0 / Should Buy: False
+2022-07-25 02:16:59.951579: Sleep for 0
+2022-07-25 02:16:59.951603: ********************
+2022-07-25 02:17:00.064625: Fast 1527.0566666666664  /  Slow: 1527.3429166666667
+2022-07-25 02:17:00.064672: Position: 0 / Should Buy: False
+2022-07-25 02:17:00.064714: Sleep for 59
+2022-07-25 02:17:59.036510: ********************
+2022-07-25 02:17:59.164413: Fast 1527.0566666666664  /  Slow: 1527.3429166666667
+2022-07-25 02:17:59.164487: Position: 0 / Should Buy: False
+2022-07-25 02:17:59.164546: Sleep for 0
+2022-07-25 02:17:59.164569: ********************
+2022-07-25 02:17:59.276322: Fast 1527.0566666666664  /  Slow: 1527.3429166666667
+2022-07-25 02:17:59.276395: Position: 0 / Should Buy: False
+2022-07-25 02:17:59.276454: Sleep for 0
+2022-07-25 02:17:59.276479: ********************
+2022-07-25 02:17:59.391964: Fast 1527.0566666666664  /  Slow: 1527.3429166666667
+2022-07-25 02:17:59.392038: Position: 0 / Should Buy: False
+2022-07-25 02:17:59.392097: Sleep for 0
+2022-07-25 02:17:59.392121: ********************
+2022-07-25 02:17:59.514874: Fast 1527.0566666666664  /  Slow: 1527.3429166666667
+2022-07-25 02:17:59.514946: Position: 0 / Should Buy: False
+2022-07-25 02:17:59.515003: Sleep for 0
+2022-07-25 02:17:59.515027: ********************
+2022-07-25 02:17:59.626285: Fast 1527.0566666666664  /  Slow: 1527.3429166666667
+2022-07-25 02:17:59.626359: Position: 0 / Should Buy: False
+2022-07-25 02:17:59.626418: Sleep for 0
+2022-07-25 02:17:59.626443: ********************
+2022-07-25 02:17:59.735088: Fast 1527.0566666666664  /  Slow: 1527.3429166666667
+2022-07-25 02:17:59.735162: Position: 0 / Should Buy: False
+2022-07-25 02:17:59.735220: Sleep for 0
+2022-07-25 02:17:59.735244: ********************
+2022-07-25 02:17:59.850849: Fast 1527.0566666666664  /  Slow: 1527.3429166666667
+2022-07-25 02:17:59.850925: Position: 0 / Should Buy: False
+2022-07-25 02:17:59.850984: Sleep for 0
+2022-07-25 02:17:59.851008: ********************
+2022-07-25 02:17:59.959939: Fast 1527.0566666666664  /  Slow: 1527.3429166666667
+2022-07-25 02:17:59.960014: Position: 0 / Should Buy: False
+2022-07-25 02:17:59.960073: Sleep for 0
+2022-07-25 02:17:59.960097: ********************
+2022-07-25 02:18:00.083188: Fast 1526.9941666666666  /  Slow: 1527.3366666666668
+2022-07-25 02:18:00.083238: Position: 0 / Should Buy: False
+2022-07-25 02:18:00.083280: Sleep for 59
+2022-07-25 02:18:59.088589: ********************
+2022-07-25 02:21:10.562885: 
+
+Report successfully inserted into database: name=dhruvvv2
+2022-07-25 02:21:10.562986: Finished created report
+
+2022-07-25 02:21:18.180928: Selected main page option 2
+2022-07-25 02:21:18.404331: Report names retrieved: ['dhruvdakoria', 'dhruv2', 'reportdhruv', 'trending', 'dhruvvv2']
+2022-07-25 02:21:37.479470: Printing report: name=dhruvvv2
+2022-07-25 02:21:37.625929: Retrieved report data for report id: 5
+2022-07-25 02:21:37.731323: Base report and decorators created
+2022-07-25 02:21:37.731824: Building report dhruvvv2 with strategy name moving-avg-crossover
+2022-07-25 02:21:37.732050: Report dhruvvv2 with strategy name moving-avg-crossover created
+2022-07-25 02:21:37.732330: Report written to file: dhruvvvv2
+2022-07-25 02:21:37.732365: Time to generate report: 0.2528s
+2022-07-25 02:21:46.290454: Selected main page option 3
+2022-07-25 15:28:23.808072: Selected main page option 1
+2022-07-25 15:28:41.648897: Created report: name=demorep
+2022-07-25 15:29:01.676054: ------ Executing Coin Toss Trading Strategy with ETHUSD, quantity: 3, max buy&sell transations: 2 ----------- 
+2022-07-25 15:29:02.397564: Holding: 0 / Buy: True
+2022-07-25 15:29:02.397623: The almighty has decided:
+2022-07-25 15:29:06.517680: Symbol: ETHUSD / Side: BUY / Quantity: 3 / Price: $1472.3333333333333333
+2022-07-25 15:29:06.517751: Lets wait for the 8s before next decision...
+2022-07-25 15:29:06.517771: ********************
+2022-07-25 15:29:14.567290: Holding: 3.0 / Buy: True
+2022-07-25 15:29:14.567347: Lets wait for the 8s before next decision...
+2022-07-25 15:29:14.567366: ********************
+2022-07-25 15:29:22.623534: Holding: 3.0 / Buy: False
+2022-07-25 15:29:22.623590: The almighty has decided:
+2022-07-25 15:29:26.743893: Symbol: ETHUSD / Side: SELL / Quantity: 3 / Price: $1472.3
+2022-07-25 15:29:26.743946: Lets wait for the 8s before next decision...
+2022-07-25 15:29:26.743964: ********************
+2022-07-25 15:29:34.804875: Holding: 0 / Buy: False
+2022-07-25 15:29:34.804936: Lets wait for the 8s before next decision...
+2022-07-25 15:29:34.804955: ********************
+2022-07-25 15:29:42.857693: Holding: 0 / Buy: False
+2022-07-25 15:29:42.857753: Lets wait for the 8s before next decision...
+2022-07-25 15:29:42.857772: ********************
+2022-07-25 15:29:51.294377: Holding: 0 / Buy: False
+2022-07-25 15:29:51.294444: Lets wait for the 8s before next decision...
+2022-07-25 15:29:51.294464: ********************
+2022-07-25 15:29:59.347711: Holding: 0 / Buy: True
+2022-07-25 15:29:59.347748: The almighty has decided:
+2022-07-25 15:30:03.530102: Symbol: ETHUSD / Side: BUY / Quantity: 3 / Price: $1467.9
+2022-07-25 15:30:03.530151: Lets wait for the 8s before next decision...
+2022-07-25 15:30:03.530170: ********************
+2022-07-25 15:30:11.590691: Holding: 3.0 / Buy: False
+2022-07-25 15:30:11.590803: The almighty has decided:
+2022-07-25 15:30:15.686588: Symbol: ETHUSD / Side: SELL / Quantity: 3 / Price: $1468.8
+2022-07-25 15:30:15.686622: Lets wait for the 8s before next decision...
+2022-07-25 15:30:15.686634: ********************
+2022-07-25 15:30:29.778568: 
+
+Report successfully inserted into database: name=demorep
+2022-07-25 15:30:29.778664: Finished created report
+
+2022-07-25 15:46:57.854395: Selected main page option 2
+2022-07-25 15:46:58.092332: Report names retrieved: ['dhruvdakoria', 'dhruv2', 'reportdhruv', 'trending', 'dhruvvv2', 'demorep']
+2022-07-25 15:47:07.124072: Printing report: name=demorep
+2022-07-25 15:47:07.255538: Retrieved report data for report id: 6
+2022-07-25 15:47:07.287831: Base report and decorators created
+2022-07-25 15:47:07.288098: Building report demorep with strategy name coin-toss
+2022-07-25 15:47:07.288385: Report demorep with strategy name coin-toss created
+2022-07-25 15:47:07.288565: Report written to file: demorep
+2022-07-25 15:47:07.288592: Time to generate report: 0.1644s
+2022-07-25 15:47:10.026924: Selected main page option 3
+2022-07-25 15:47:35.656189: Selected main page option 1
+2022-07-25 15:47:47.580333: Created report: name=trade-report
+2022-07-25 15:48:05.828822: ------ Executing Moving Avg Crossover Trading Strategy with TSLA, quantity: 4, run time: 4 mins ----------- 
+2022-07-25 15:48:58.593691: Selected main page option 1
+2022-07-25 15:49:07.839736: Created report: name=abcd
+2022-07-25 15:49:28.405069: ------ Executing Moving Avg Crossover Trading Strategy with BTCUSD, quantity: 2, run time: 4 mins ----------- 
+2022-07-25 15:49:29.402792: Fast 21678.103333333333  /  Slow: 21657.879166666666
+2022-07-25 15:49:29.402865: Position: 0 / Should Buy: True
+2022-07-25 15:49:33.565241: Symbol: BTCUSD / Side: BUY / Quantity: 2 / Price: $21723
+2022-07-25 15:49:33.565418: Sleep for 26
+2022-07-25 15:49:59.570685: ********************
+2022-07-25 15:49:59.893020: Fast 21678.115833333333  /  Slow: 21657.885416666668
+2022-07-25 15:49:59.893094: Position: 2.0 / Should Buy: True
+2022-07-25 15:49:59.893151: Sleep for 0
+2022-07-25 15:49:59.893175: ********************
+2022-07-25 15:50:00.180724: Fast 21684.770833333332  /  Slow: 21661.11375
+2022-07-25 15:50:00.180796: Position: 2.0 / Should Buy: True
+2022-07-25 15:50:00.180854: Sleep for 59
+2022-07-25 15:50:59.206644: ********************
+2022-07-25 15:50:59.551251: Fast 21684.758333333335  /  Slow: 21661.107500000002
+2022-07-25 15:50:59.551325: Position: 2.0 / Should Buy: True
+2022-07-25 15:50:59.551383: Sleep for 0
+2022-07-25 15:50:59.551407: ********************
+2022-07-25 15:50:59.814930: Fast 21684.758333333335  /  Slow: 21661.107500000002
+2022-07-25 15:50:59.815003: Position: 2.0 / Should Buy: True
+2022-07-25 15:50:59.815062: Sleep for 0
+2022-07-25 15:50:59.815086: ********************
+2022-07-25 15:51:00.093186: Fast 21684.758333333335  /  Slow: 21661.107500000002
+2022-07-25 15:51:00.093258: Position: 2.0 / Should Buy: True
+2022-07-25 15:51:00.093316: Sleep for 59
+2022-07-25 15:51:59.102270: ********************
+2022-07-25 15:51:59.422343: Fast 21691.108333333334  /  Slow: 21664.23791666667
+2022-07-25 15:51:59.422417: Position: 2.0 / Should Buy: True
+2022-07-25 15:51:59.422475: Sleep for 0
+2022-07-25 15:51:59.422499: ********************
+2022-07-25 15:51:59.692560: Fast 21691.108333333334  /  Slow: 21664.23791666667
+2022-07-25 15:51:59.692634: Position: 2.0 / Should Buy: True
+2022-07-25 15:51:59.692693: Sleep for 0
+2022-07-25 15:51:59.692716: ********************
+2022-07-25 15:51:59.974990: Fast 21691.108333333334  /  Slow: 21664.23791666667
+2022-07-25 15:51:59.975059: Position: 2.0 / Should Buy: True
+2022-07-25 15:51:59.975118: Sleep for 0
+2022-07-25 15:51:59.975142: ********************
+2022-07-25 15:52:00.272065: Fast 21703.146666666667  /  Slow: 21670.784166666668
+2022-07-25 15:52:00.272140: Position: 2.0 / Should Buy: True
+2022-07-25 15:52:00.272198: Sleep for 59
+2022-07-25 15:52:59.277380: ********************
+2022-07-25 15:52:59.583264: Fast 21703.044166666667  /  Slow: 21670.732916666664
+2022-07-25 15:52:59.583338: Position: 2.0 / Should Buy: True
+2022-07-25 15:52:59.583396: Sleep for 0
+2022-07-25 15:52:59.583419: ********************
+2022-07-25 15:52:59.841199: Fast 21703.044166666667  /  Slow: 21670.732916666664
+2022-07-25 15:52:59.841271: Position: 2.0 / Should Buy: True
+2022-07-25 15:52:59.841328: Sleep for 0
+2022-07-25 15:52:59.841352: ********************
+2022-07-25 15:53:00.123037: Fast 21703.044166666667  /  Slow: 21670.732916666664
+2022-07-25 15:53:00.123112: Position: 2.0 / Should Buy: True
+2022-07-25 15:53:00.123170: Sleep for 59
+2022-07-25 15:53:59.128005: ********************
+2022-07-25 15:54:31.366942: 
+
+Report successfully inserted into database: name=abcd
+2022-07-25 15:54:31.367039: Finished created report
+
+2022-07-25 15:54:35.342140: Selected main page option 2
+2022-07-25 15:54:35.637506: Report names retrieved: ['dhruvdakoria', 'dhruv2', 'reportdhruv', 'trending', 'dhruvvv2', 'demorep', 'abcd']
+2022-07-25 15:54:43.148404: Printing report: name=abcd
+2022-07-25 15:54:43.296572: Retrieved report data for report id: 7
+2022-07-25 15:54:43.414091: Base report and decorators created
+2022-07-25 15:54:43.414301: Building report abcd with strategy name moving-avg-crossover
+2022-07-25 15:54:43.414420: Report abcd with strategy name moving-avg-crossover created
+2022-07-25 15:54:43.414553: Report written to file: abcdd
+2022-07-25 15:54:43.414568: Time to generate report: 0.2661s
+2022-07-25 15:55:01.983107: Selected main page option 3
+2022-07-25 15:59:27.088719: Selected main page option 1
+2022-07-25 15:59:35.525910: Created report: name=vjnwsbf
+2022-07-25 15:59:49.250841: ------ Executing Coin Toss Trading Strategy with TSLA, quantity: 5, max buy&sell transations: 2 ----------- 
+2022-07-25 15:59:49.647960: Holding: 0 / Buy: True
+2022-07-25 15:59:49.647996: The almighty has decided:
+2022-07-25 15:59:53.763806: Symbol: TSLA / Side: BUY / Quantity: 5 / Price: $804.61
+2022-07-25 15:59:53.763858: Lets wait for the 8s before next decision...
+2022-07-25 15:59:53.763876: ********************
+2022-07-25 16:00:01.831928: Holding: 5.0 / Buy: False
+2022-07-25 16:00:01.831984: The almighty has decided:
+2022-07-25 16:00:05.940941: Symbol: TSLA / Side: SELL / Quantity: 5 / Price: $None
+2022-07-25 16:00:05.940999: Lets wait for the 8s before next decision...
+2022-07-25 16:00:05.941018: ********************
+2022-07-25 16:00:14.005308: Holding: 5.0 / Buy: False
+2022-07-25 16:00:14.005366: The almighty has decided:
+2022-07-25 16:00:35.198944: Selected main page option 1
+2022-07-25 16:00:42.083396: Created report: name=teslaa
+2022-07-25 16:00:50.273216: ------ Executing Coin Toss Trading Strategy with ETHUSD, quantity: 2, max buy&sell transations: 2 ----------- 
+2022-07-25 16:00:50.656859: Holding: 0 / Buy: False
+2022-07-25 16:00:50.656917: Lets wait for the 8s before next decision...
+2022-07-25 16:00:50.656939: ********************
+2022-07-25 16:00:58.722510: Holding: 0 / Buy: True
+2022-07-25 16:00:58.722569: The almighty has decided:
+2022-07-25 16:01:02.834022: Symbol: ETHUSD / Side: BUY / Quantity: 2 / Price: $1494.8
+2022-07-25 16:01:02.834072: Lets wait for the 8s before next decision...
+2022-07-25 16:01:02.834091: ********************
+2022-07-25 16:01:10.891647: Holding: 2.0 / Buy: False
+2022-07-25 16:01:10.891710: The almighty has decided:
+2022-07-25 16:01:15.002669: Symbol: ETHUSD / Side: SELL / Quantity: 2 / Price: $1491.6
+2022-07-25 16:01:15.002720: Lets wait for the 8s before next decision...
+2022-07-25 16:01:15.002738: ********************
+2022-07-25 16:01:23.062204: Holding: 0 / Buy: True
+2022-07-25 16:01:23.062261: The almighty has decided:
+2022-07-25 16:01:27.176304: Symbol: ETHUSD / Side: BUY / Quantity: 2 / Price: $1493
+2022-07-25 16:01:27.176345: Lets wait for the 8s before next decision...
+2022-07-25 16:01:27.176359: ********************
+2022-07-25 16:01:35.238105: Holding: 2.0 / Buy: False
+2022-07-25 16:01:35.238164: The almighty has decided:
+2022-07-25 16:01:39.353993: Symbol: ETHUSD / Side: SELL / Quantity: 2 / Price: $1495.9
+2022-07-25 16:01:39.354046: Lets wait for the 8s before next decision...
+2022-07-25 16:01:39.354065: ********************
+2022-07-25 16:01:51.469880: 
+
+Report successfully inserted into database: name=teslaa
+2022-07-25 16:01:51.469993: Finished created report
+
+2022-07-25 16:01:52.555793: Selected main page option 2
+2022-07-25 16:01:52.859784: Report names retrieved: ['dhruvdakoria', 'dhruv2', 'reportdhruv', 'trending', 'dhruvvv2', 'demorep', 'abcd', 'teslaa']
+2022-07-25 16:02:02.501029: Printing report: name=teslaa
+2022-07-25 16:02:02.636505: Retrieved report data for report id: 8
+2022-07-25 16:02:02.670742: Base report and decorators created
+2022-07-25 16:02:02.671348: Building report teslaa with strategy name coin-toss
+2022-07-25 16:02:02.671776: Report teslaa with strategy name coin-toss created
+2022-07-25 16:02:02.671998: Report written to file: ethusd
+2022-07-25 16:02:02.672033: Time to generate report: 0.1709s
+2022-07-25 16:02:06.775695: Selected main page option 3
+2022-07-25 16:33:04.852273: Selected main page option 1
+2022-07-25 16:33:17.853942: Created report: name=repo1
+2022-07-25 16:33:31.942376: ------ Executing Coin Toss Trading Strategy with ETHUSD, quantity: 3, max buy&sell transations: 2 ----------- 
+2022-07-25 16:33:32.370403: Holding: 0 / Buy: False
+2022-07-25 16:33:32.404662: Lets wait for the 8s before next decision...
+2022-07-25 16:33:32.438777: ********************
+2022-07-25 16:33:40.547332: Holding: 0 / Buy: False
+2022-07-25 16:33:40.576481: Lets wait for the 8s before next decision...
+2022-07-25 16:33:40.615700: ********************
+2022-07-25 16:33:48.720161: Holding: 0 / Buy: False
+2022-07-25 16:33:48.755143: Lets wait for the 8s before next decision...
+2022-07-25 16:33:48.790057: ********************
+2022-07-25 16:33:56.895200: Holding: 0 / Buy: True
+2022-07-25 16:33:56.931538: The almighty has decided:
+2022-07-25 16:34:01.078625: Symbol: ETHUSD / Side: BUY / Quantity: 3 / Price: $1514.7
+2022-07-25 16:34:01.114348: Lets wait for the 8s before next decision...
+2022-07-25 16:34:01.154896: ********************
+2022-07-25 16:34:09.273887: Holding: 3.0 / Buy: False
+2022-07-25 16:34:09.309032: The almighty has decided:
+2022-07-25 16:34:13.485066: Symbol: ETHUSD / Side: SELL / Quantity: 3 / Price: $1514.4
+2022-07-25 16:34:13.515804: Lets wait for the 8s before next decision...
+2022-07-25 16:34:13.550585: ********************
+2022-07-25 16:34:21.650226: Holding: 0 / Buy: False
+2022-07-25 16:34:21.683465: Lets wait for the 8s before next decision...
+2022-07-25 16:34:21.714531: ********************
+2022-07-25 16:34:29.803299: Holding: 0 / Buy: False
+2022-07-25 16:34:29.836493: Lets wait for the 8s before next decision...
+2022-07-25 16:34:29.870904: ********************
+2022-07-25 16:34:37.970817: Holding: 0 / Buy: True
+2022-07-25 16:34:38.002582: The almighty has decided:
+2022-07-25 16:34:42.155140: Symbol: ETHUSD / Side: BUY / Quantity: 3 / Price: $1514.7
+2022-07-25 16:34:42.187111: Lets wait for the 8s before next decision...
+2022-07-25 16:34:42.220458: ********************
+2022-07-25 16:34:50.308655: Holding: 3.0 / Buy: False
+2022-07-25 16:34:50.337667: The almighty has decided:
+2022-07-25 16:34:54.483417: Symbol: ETHUSD / Side: SELL / Quantity: 3 / Price: $1515.1
+2022-07-25 16:34:54.514261: Lets wait for the 8s before next decision...
+2022-07-25 16:34:54.551512: ********************
+2022-07-25 16:35:24.771968: 
+
+Report successfully inserted into database: name=repo1
+2022-07-25 16:35:24.798455: Finished created report
+
+2022-07-25 16:35:31.262458: Selected main page option 2
+2022-07-25 16:35:31.361158: Report names retrieved: ['repo1']
+2022-07-25 16:35:36.059105: Printing report: name=repo1
+2022-07-25 16:35:36.227680: Retrieved report data for report id: 1
+2022-07-25 16:35:36.292657: Base report and decorators created
+2022-07-25 16:35:36.329316: Building report repo1 with strategy name coin-toss
+2022-07-25 16:35:36.361561: Report repo1 with strategy name coin-toss created
+2022-07-25 16:35:36.389009: Report written to file: repo1
+2022-07-25 16:35:36.419548: Time to generate report: 0.3028s
+2022-07-25 16:35:38.277007: Selected main page option 3
+2022-07-25 18:10:54.039111: Selected main page option 1
+2022-07-25 18:11:10.994556: Created report: name=dhruv-new
+2022-07-25 18:11:22.020341: ------ Executing Coin Toss Trading Strategy with BTCUSD, quantity: 2, max buy&sell transations: 2 ----------- 
+2022-07-25 18:11:22.461626: Holding: 2.0 / Buy: True
+2022-07-25 18:11:22.461682: Lets wait for the 8s before next decision...
+2022-07-25 18:11:22.461701: ********************
+2022-07-25 18:11:30.533331: Holding: 2.0 / Buy: False
+2022-07-25 18:11:30.533390: The almighty has decided:
+2022-07-25 18:11:34.655695: Symbol: BTCUSD / Side: SELL / Quantity: 2 / Price: $21976
+2022-07-25 18:11:34.655750: Lets wait for the 8s before next decision...
+2022-07-25 18:11:34.655769: ********************
+2022-07-25 18:11:42.720373: Holding: 0 / Buy: False
+2022-07-25 18:11:42.720432: Lets wait for the 8s before next decision...
+2022-07-25 18:11:42.720451: ********************
+2022-07-25 18:11:50.787301: Holding: 0 / Buy: False
+2022-07-25 18:11:50.787357: Lets wait for the 8s before next decision...
+2022-07-25 18:11:50.787376: ********************
+2022-07-25 18:11:58.853167: Holding: 0 / Buy: False
+2022-07-25 18:11:58.853226: Lets wait for the 8s before next decision...
+2022-07-25 18:11:58.853245: ********************
+2022-07-25 18:12:07.048918: Holding: 0 / Buy: True
+2022-07-25 18:12:07.048977: The almighty has decided:
+2022-07-25 18:14:03.753371: Selected main page option 2
+2022-07-25 18:14:03.972506: Report names retrieved: ['test2', 'test']
+2022-07-25 18:14:19.216458: Printing report: name=test2
+2022-07-25 18:21:20.671787: Selected main page option 1
+2022-07-25 18:21:33.508876: Created report: name=first-tr
+2022-07-25 18:21:50.227299: ------ Executing Coin Toss Trading Strategy with ETHUSD, quantity: 2, max buy&sell transations: 2 ----------- 
+2022-07-25 18:21:51.005719: Holding: 0 / Buy: True
+2022-07-25 18:21:51.005778: The almighty has decided:
+2022-07-25 18:21:55.121801: Symbol: ETHUSD / Side: BUY / Quantity: 2 / Price: $1493.4
+2022-07-25 18:21:55.121854: Lets wait for the 8s before next decision...
+2022-07-25 18:21:55.121873: ********************
+2022-07-25 18:22:03.176725: Holding: 2.0 / Buy: False
+2022-07-25 18:22:03.176773: The almighty has decided:
+2022-07-25 18:22:07.288402: Symbol: ETHUSD / Side: SELL / Quantity: 2 / Price: $1493.3
+2022-07-25 18:22:07.288444: Lets wait for the 8s before next decision...
+2022-07-25 18:22:07.288459: ********************
+2022-07-25 18:22:15.351140: Holding: 0 / Buy: True
+2022-07-25 18:22:15.351194: The almighty has decided:
+2022-07-25 18:22:19.480949: Symbol: ETHUSD / Side: BUY / Quantity: 2 / Price: $1492.3
+2022-07-25 18:22:19.481006: Lets wait for the 8s before next decision...
+2022-07-25 18:22:19.481025: ********************
+2022-07-25 18:22:27.546759: Holding: 2.0 / Buy: False
+2022-07-25 18:22:27.546816: The almighty has decided:
+2022-07-25 18:22:31.670430: Symbol: ETHUSD / Side: SELL / Quantity: 2 / Price: $1490.9
+2022-07-25 18:22:31.670471: Lets wait for the 8s before next decision...
+2022-07-25 18:22:31.670487: ********************
+2022-07-25 18:23:31.252974: 
+
+Report successfully inserted into database: name=first-tr
+2022-07-25 18:23:31.253024: Finished created report
+
+2022-07-25 18:23:35.756393: Selected main page option 2
+2022-07-25 18:23:35.809343: Report names retrieved: ['first-tr']
+2022-07-25 18:23:42.417485: Printing report: name=first-tr
+2022-07-25 18:23:42.468520: Retrieved report data for report id: 1
+2022-07-25 18:23:42.468589: Base report and decorators created
+2022-07-25 18:23:42.468887: Building report first-tr with strategy name coin-toss
+2022-07-25 18:23:42.469160: Report first-tr with strategy name coin-toss created
+2022-07-25 18:23:42.469388: Report written to file: first-tr
+2022-07-25 18:23:42.469480: Time to generate report: 0.0518s
+2022-07-25 18:24:45.848428: Selected main page option 1
+2022-07-25 18:24:56.423735: Created report: name=second-tr
+2022-07-25 18:25:52.113903: ------ Executing Moving Avg Crossover Trading Strategy with BTCUSD, quantity: 1, run time: 4 mins ----------- 
+2022-07-25 18:25:53.258564: Fast 21844.624166666665  /  Slow: 21916.871666666662
+2022-07-25 18:25:53.258639: Position: 0 / Should Buy: False
+2022-07-25 18:25:53.258743: Sleep for 6
+2022-07-25 18:25:59.259603: ********************
+2022-07-25 18:26:00.446436: Fast 21844.624166666665  /  Slow: 21916.871666666662
+2022-07-25 18:26:00.446511: Position: 0 / Should Buy: False
+2022-07-25 18:26:00.446570: Sleep for 59
+2022-07-25 18:26:59.451604: ********************
+2022-07-25 18:26:59.865511: Fast 21822.815  /  Slow: 21902.943750000002
+2022-07-25 18:26:59.865583: Position: 0 / Should Buy: False
+2022-07-25 18:26:59.865641: Sleep for 0
+2022-07-25 18:26:59.865665: ********************
+2022-07-25 18:27:00.138763: Fast 21822.815  /  Slow: 21902.943750000002
+2022-07-25 18:27:00.138838: Position: 0 / Should Buy: False
+2022-07-25 18:27:00.138896: Sleep for 59
+2022-07-25 18:27:59.141919: ********************
+2022-07-25 18:27:59.634473: Fast 21804.908333333333  /  Slow: 21888.697916666668
+2022-07-25 18:27:59.634548: Position: 0 / Should Buy: False
+2022-07-25 18:27:59.634606: Sleep for 0
+2022-07-25 18:27:59.634630: ********************
+2022-07-25 18:27:59.947656: Fast 21804.908333333333  /  Slow: 21888.697916666668
+2022-07-25 18:27:59.947732: Position: 0 / Should Buy: False
+2022-07-25 18:27:59.947790: Sleep for 0
+2022-07-25 18:27:59.947814: ********************
+2022-07-25 18:28:00.276377: Fast 21783.960833333334  /  Slow: 21873.71083333333
+2022-07-25 18:28:00.276455: Position: 0 / Should Buy: False
+2022-07-25 18:28:00.276517: Sleep for 59
+2022-07-25 18:28:59.278446: ********************
+2022-07-25 18:28:59.815126: Fast 21783.960833333334  /  Slow: 21873.71083333333
+2022-07-25 18:28:59.815200: Position: 0 / Should Buy: False
+2022-07-25 18:28:59.815259: Sleep for 0
+2022-07-25 18:28:59.815283: ********************
+2022-07-25 18:29:00.136311: Fast 21783.960833333334  /  Slow: 21873.71083333333
+2022-07-25 18:29:00.136385: Position: 0 / Should Buy: False
+2022-07-25 18:29:00.136446: Sleep for 59
+2022-07-25 18:29:59.139972: ********************
+2022-07-25 18:30:47.320528: 
+
+Report successfully inserted into database: name=second-tr
+2022-07-25 18:30:47.320594: Finished created report
+
+2022-07-25 18:30:59.094909: Selected main page option 2
+2022-07-25 18:30:59.137410: Report names retrieved: ['first-tr', 'second-tr']
+2022-07-25 18:31:07.306849: Printing report: name=second-tr
+2022-07-25 18:31:07.354002: Retrieved report data for report id: 2
+2022-07-25 18:31:07.354049: Base report and decorators created
+2022-07-25 18:31:07.354240: Building report second-tr with strategy name moving-avg-crossover
+2022-07-25 18:31:07.354293: 
+No transaction happended during the period of the report when trading stretgy was executed
+
+2022-07-25 18:31:07.354310: Report second-tr with strategy name moving-avg-crossover created
+2022-07-25 18:31:07.354452: Report written to file: second-tr
+2022-07-25 18:31:07.354473: Time to generate report: 0.0476s
+2022-07-25 18:31:11.133265: Selected main page option 3
+2022-07-25 19:28:28.489452: Selected main page option 1
+2022-07-25 19:28:40.450687: Created report: name=dhruv2
+2022-07-25 19:28:47.462803: ------ Executing Coin Toss Trading Strategy with BTCUSD, quantity: 1, max buy&sell transations: 2 ----------- 
+2022-07-25 19:28:48.091300: Holding: 0 / Buy: False
+2022-07-25 19:28:48.206369: Lets wait for the 8s before next decision...
+2022-07-25 19:28:48.310551: ********************
+2022-07-25 19:28:56.633571: Holding: 0 / Buy: False
+2022-07-25 19:28:56.783360: Lets wait for the 8s before next decision...
+2022-07-25 19:28:56.878980: ********************
+2022-07-25 19:29:05.385784: Holding: 0 / Buy: True
+2022-07-25 19:29:05.487408: The almighty has decided:
+2022-07-25 19:29:09.698973: Symbol: BTCUSD / Side: BUY / Quantity: 1 / Price: $21646
+2022-07-25 19:29:09.810049: Lets wait for the 8s before next decision...
+2022-07-25 19:29:09.905821: ********************
+2022-07-25 19:29:18.213364: Holding: 1.0 / Buy: False
+2022-07-25 19:29:18.315056: The almighty has decided:
+2022-07-25 19:29:22.570854: Symbol: BTCUSD / Side: SELL / Quantity: 1 / Price: $21660
+2022-07-25 19:29:22.664577: Lets wait for the 8s before next decision...
+2022-07-25 19:29:22.763536: ********************
+2022-07-25 19:29:31.092240: Holding: 0 / Buy: True
+2022-07-25 19:29:31.202751: The almighty has decided:
+2022-07-25 19:29:35.411244: Symbol: BTCUSD / Side: BUY / Quantity: 1 / Price: $21654
+2022-07-25 19:29:35.516995: Lets wait for the 8s before next decision...
+2022-07-25 19:29:35.615044: ********************
+2022-07-25 19:29:44.049463: Holding: 1.0 / Buy: True
+2022-07-25 19:29:44.154336: Lets wait for the 8s before next decision...
+2022-07-25 19:29:44.265107: ********************
+2022-07-25 19:29:52.765921: Holding: 1.0 / Buy: True
+2022-07-25 19:29:52.938914: Lets wait for the 8s before next decision...
+2022-07-25 19:29:53.042276: ********************
+2022-07-25 19:30:01.572084: Holding: 1.0 / Buy: True
+2022-07-25 19:30:01.690956: Lets wait for the 8s before next decision...
+2022-07-25 19:30:01.821551: ********************
+2022-07-25 19:30:10.346589: Holding: 1.0 / Buy: False
+2022-07-25 19:30:10.476494: The almighty has decided:
+2022-07-25 19:30:14.749815: Symbol: BTCUSD / Side: SELL / Quantity: 1 / Price: $21639
+2022-07-25 19:30:14.887681: Lets wait for the 8s before next decision...
+2022-07-25 19:30:14.996344: ********************
+2022-07-25 19:56:05.964130: 
+
+Report successfully inserted into database: name=dhruv2
+2022-07-25 19:56:06.077374: Finished created report
+
+2022-07-25 19:56:10.829535: Selected main page option 2
+2022-07-25 19:56:10.972396: Report names retrieved: ['first-tr', 'second-tr', 'dhruv2']
+2022-07-25 19:56:34.445268: Printing report: name=dhruv2
+2022-07-25 19:56:34.589169: Retrieved report data for report id: 3
+2022-07-25 19:56:34.693913: Base report and decorators created
+2022-07-25 19:56:34.796062: Building report dhruv2 with strategy name coin-toss
+2022-07-25 19:56:34.896963: Report dhruv2 with strategy name coin-toss created
+2022-07-25 19:56:35.005928: Report written to file: dhruv2
+2022-07-25 19:56:35.156806: Time to generate report: 0.4519s
+2022-07-25 19:56:44.280341: Selected main page option 3
+2022-07-25 20:48:12.869148: Selected main page option 1
+2022-07-25 20:51:51.409131: Selected main page option 1
+2022-07-25 20:52:03.663016: Created report: name=tradeview
+2022-07-25 20:52:21.120331: ------ Executing Moving Avg Crossover Trading Strategy with ETHUSD, quantity: 1, run time: 5 mins ----------- 
+2022-07-25 20:52:22.427017: Fast 1427.2308333333333  /  Slow: 1427.3883333333333
+2022-07-25 20:52:22.525813: Position: 0 / Should Buy: False
+2022-07-25 20:52:22.655141: Sleep for 37
+2022-07-25 20:52:59.931171: ********************
+2022-07-25 20:53:00.359867: Fast 1427.0024999999998  /  Slow: 1427.1762500000002
+2022-07-25 20:53:00.468832: Position: 0 / Should Buy: False
+2022-07-25 20:53:00.589615: Sleep for 59
+2022-07-25 20:54:00.143138: ********************
+2022-07-25 20:54:00.585801: Fast 1426.1933333333334  /  Slow: 1426.82875
+2022-07-25 20:54:00.689386: Position: 0 / Should Buy: False
+2022-07-25 20:54:00.809357: Sleep for 59
+2022-07-25 20:55:00.310039: ********************
+2022-07-25 20:55:00.901522: Fast 1425.2516666666668  /  Slow: 1426.2983333333332
+2022-07-25 20:55:01.011333: Position: 0 / Should Buy: False
+2022-07-25 20:55:01.119348: Sleep for 58
+2022-07-25 20:55:59.405023: ********************
+2022-07-25 20:55:59.911516: Fast 1425.2633333333333  /  Slow: 1426.3041666666666
+2022-07-25 20:56:00.014465: Position: 0 / Should Buy: False
+2022-07-25 20:56:00.112613: Sleep for 59
+2022-07-25 20:56:59.393526: ********************
+2022-07-25 20:56:59.821914: Fast 1424.46  /  Slow: 1425.8137500000003
+2022-07-25 20:56:59.936586: Position: 0 / Should Buy: False
+2022-07-25 20:57:00.039820: Sleep for 0
+2022-07-25 20:57:00.146054: ********************
+2022-07-25 20:57:00.581852: Fast 1423.4591666666665  /  Slow: 1425.1208333333334
+2022-07-25 20:57:00.691697: Position: 0 / Should Buy: False
+2022-07-25 20:57:00.798281: Sleep for 59
+2022-07-25 20:58:00.068190: ********************
+2022-07-25 22:37:44.959097: 
+
+Report successfully inserted into database: name=tradeview
+2022-07-25 22:37:45.052772: Finished created report
+
+2022-07-25 22:37:48.312763: Selected main page option 3
+2022-07-25 22:53:30.709561: Selected main page option 1
+2022-07-25 22:54:07.547188: Created report: name=demo-report-1
+2022-07-25 22:54:51.378831: ------ Executing Coin Toss Trading Strategy with BTCUSD, quantity: 2, max buy&sell transations: 3 ----------- 
+2022-07-25 22:54:52.081884: Holding: 0 / Buy: True
+2022-07-25 22:54:52.186018: The almighty has decided:
+2022-07-25 22:54:56.409606: Symbol: BTCUSD / Side: BUY / Quantity: 2 / Price: $21083
+2022-07-25 22:54:56.518089: Lets wait for the 8s before next decision...
+2022-07-25 22:54:56.633547: ********************
+2022-07-25 22:55:05.171436: Holding: 2.0 / Buy: False
+2022-07-25 22:55:05.266843: The almighty has decided:
+2022-07-25 22:55:09.496988: Symbol: BTCUSD / Side: SELL / Quantity: 2 / Price: $21083
+2022-07-25 22:55:09.608471: Lets wait for the 8s before next decision...
+2022-07-25 22:55:09.706908: ********************
+2022-07-25 22:55:18.253532: Holding: 0 / Buy: False
+2022-07-25 22:55:18.359661: Lets wait for the 8s before next decision...
+2022-07-25 22:55:18.471604: ********************
+2022-07-25 22:55:26.819293: Holding: 0 / Buy: False
+2022-07-25 22:55:26.919662: Lets wait for the 8s before next decision...
+2022-07-25 22:55:27.022348: ********************
+2022-07-25 22:55:35.525907: Holding: 0 / Buy: False
+2022-07-25 22:55:35.618748: Lets wait for the 8s before next decision...
+2022-07-25 22:55:35.719422: ********************
+2022-07-25 22:55:44.023790: Holding: 0 / Buy: False
+2022-07-25 22:55:44.125753: Lets wait for the 8s before next decision...
+2022-07-25 22:55:44.225560: ********************
+2022-07-25 22:55:52.561106: Holding: 0 / Buy: True
+2022-07-25 22:55:52.655912: The almighty has decided:
+2022-07-25 22:55:56.864995: Symbol: BTCUSD / Side: BUY / Quantity: 2 / Price: $21080
+2022-07-25 22:55:56.965463: Lets wait for the 8s before next decision...
+2022-07-25 22:55:57.062071: ********************
+2022-07-25 22:56:05.552129: Holding: 2.0 / Buy: False
+2022-07-25 22:56:05.652592: The almighty has decided:
+2022-07-25 22:56:09.868016: Symbol: BTCUSD / Side: SELL / Quantity: 2 / Price: $21077
+2022-07-25 22:56:09.973618: Lets wait for the 8s before next decision...
+2022-07-25 22:56:10.079403: ********************
+2022-07-25 22:56:18.398909: Holding: 0 / Buy: False
+2022-07-25 22:56:18.507152: Lets wait for the 8s before next decision...
+2022-07-25 22:56:18.614029: ********************
+2022-07-25 22:56:27.095400: Holding: 0 / Buy: False
+2022-07-25 22:56:27.195833: Lets wait for the 8s before next decision...
+2022-07-25 22:56:27.297437: ********************
+2022-07-25 22:56:35.815911: Holding: 0 / Buy: True
+2022-07-25 22:56:35.924643: The almighty has decided:
+2022-07-25 22:56:40.145977: Symbol: BTCUSD / Side: BUY / Quantity: 2 / Price: $21064
+2022-07-25 22:56:40.255442: Lets wait for the 8s before next decision...
+2022-07-25 22:56:40.359771: ********************
+2022-07-25 22:56:48.937117: Holding: 2.0 / Buy: False
+2022-07-25 22:56:49.064930: The almighty has decided:
+2022-07-25 22:56:53.285055: Symbol: BTCUSD / Side: SELL / Quantity: 2 / Price: $21064
+2022-07-25 22:56:53.385813: Lets wait for the 8s before next decision...
+2022-07-25 22:56:53.497940: ********************
+2022-07-25 22:57:34.471286: 
+
+Report successfully inserted into database: name=demo-report-1
+2022-07-25 22:57:34.637566: Finished created report
+
+2022-07-25 22:58:47.951204: Selected main page option 2
+2022-07-25 22:58:48.246263: Report names retrieved: ['first-tr', 'second-tr', 'demo-report-1', 'tradeview', 'dhruv2']
+2022-07-25 22:59:35.253321: Printing report: name=demo-report-1
+2022-07-25 22:59:35.412477: Retrieved report data for report id: 3
+2022-07-25 22:59:35.524146: Basic transaction report created
+2022-07-25 22:59:35.632880: Building report demo-report-1 with strategy name coin-toss
+2022-07-25 22:59:35.786314: Report demo-report-1 with strategy name coin-toss created
+2022-07-25 22:59:35.892716: Report written to file: demo-report-1
+2022-07-25 22:59:35.995896: Time to generate report: 0.5332s
+2022-07-25 23:00:37.128389: Selected main page option 1
+2022-07-25 23:00:57.866043: Created report: name=demo-strategy-2
+2022-07-25 23:01:35.726787: ------ Executing Moving Avg Crossover Trading Strategy with ETHUSD, quantity: 2, run time: 4 mins ----------- 
+2022-07-25 23:01:37.322270: Fast 1420.6366666666665  /  Slow: 1421.6704166666668
+2022-07-25 23:01:37.427167: Position: 0 / Should Buy: False
+2022-07-25 23:01:37.535158: Sleep for 22
+2022-07-25 23:01:59.996002: ********************
+2022-07-25 23:02:00.405322: Fast 1420.1758333333335  /  Slow: 1421.4420833333334
+2022-07-25 23:02:00.507677: Position: 0 / Should Buy: False
+2022-07-25 23:02:00.617658: Sleep for 59
+2022-07-25 23:03:00.136908: ********************
+2022-07-25 23:03:00.600331: Fast 1419.6850000000002  /  Slow: 1421.1533333333334
+2022-07-25 23:03:00.709448: Position: 0 / Should Buy: False
+2022-07-25 23:03:00.872214: Sleep for 59
+2022-07-25 23:04:00.326581: ********************
+2022-07-25 23:04:00.762931: Fast 1419.4341666666667  /  Slow: 1420.9579166666665
+2022-07-25 23:04:00.867321: Position: 0 / Should Buy: False
+2022-07-25 23:04:00.974095: Sleep for 59
+2022-07-25 23:05:00.418285: ********************
+2022-07-25 23:05:00.853951: Fast 1419.1224999999997  /  Slow: 1420.712083333333
+2022-07-25 23:05:00.958318: Position: 0 / Should Buy: False
+2022-07-25 23:05:01.065386: Sleep for 59
+2022-07-25 23:06:00.534499: ********************
+2022-07-25 23:06:29.372710: ------ Executing Moving Avg Crossover Trading Strategy with ETHUSD, quantity: 2, run time: 8 mins ----------- 
+2022-07-25 23:06:30.423463: Fast 1418.8774999999998  /  Slow: 1420.5475
+2022-07-25 23:06:30.527412: Position: 0 / Should Buy: False
+2022-07-25 23:06:30.628056: Sleep for 29
+2022-07-25 23:07:00.088447: ********************
+2022-07-25 23:07:00.521084: Fast 1418.4358333333332  /  Slow: 1420.365
+2022-07-25 23:07:00.636027: Position: 0 / Should Buy: False
+2022-07-25 23:07:00.749866: Sleep for 59
+2022-07-25 23:08:00.199256: ********************
+2022-07-25 23:08:00.699832: Fast 1418.0933333333335  /  Slow: 1420.1695833333333
+2022-07-25 23:08:00.800977: Position: 0 / Should Buy: False
+2022-07-25 23:08:00.911401: Sleep for 59
+2022-07-25 23:09:00.372470: ********************
+2022-07-25 23:09:00.909588: Fast 1418.0816666666667  /  Slow: 1420.0229166666666
+2022-07-25 23:09:01.022163: Position: 0 / Should Buy: False
+2022-07-25 23:09:01.128483: Sleep for 58
+2022-07-25 23:09:59.402098: ********************
+2022-07-25 23:09:59.824631: Fast 1418.0816666666667  /  Slow: 1420.0229166666666
+2022-07-25 23:10:00.021883: Position: 0 / Should Buy: False
+2022-07-25 23:10:00.145766: Sleep for 59
+2022-07-25 23:10:59.611037: ********************
+2022-07-25 23:11:00.036410: Fast 1418.0166666666667  /  Slow: 1419.7641666666668
+2022-07-25 23:11:00.139597: Position: 0 / Should Buy: False
+2022-07-25 23:11:00.257955: Sleep for 59
+2022-07-25 23:11:59.546483: ********************
+2022-07-25 23:12:00.004511: Fast 1417.8983333333333  /  Slow: 1419.5091666666667
+2022-07-25 23:12:00.123976: Position: 0 / Should Buy: False
+2022-07-25 23:12:00.312066: Sleep for 59
+2022-07-25 23:12:59.772274: ********************
+2022-07-25 23:13:00.237473: Fast 1417.3158333333333  /  Slow: 1419.087083333333
+2022-07-25 23:13:00.344535: Position: 0 / Should Buy: False
+2022-07-25 23:13:00.481694: Sleep for 59
+2022-07-25 23:13:59.930511: ********************
+2022-07-25 23:14:00.407410: Fast 1415.58  /  Slow: 1417.8779166666666
+2022-07-25 23:14:00.508158: Position: 0 / Should Buy: False
+2022-07-25 23:14:00.661109: Sleep for 59
+2022-07-25 23:15:00.117056: ********************
+2022-07-25 23:15:14.751136: 
+
+Report successfully inserted into database: name=demo-strategy-2
+2022-07-25 23:15:14.873998: Finished created report
+
+2022-07-25 23:15:17.084007: Selected main page option 3
+2022-08-07 22:53:45.748452: Selected main page option 1
+2022-08-07 22:54:08.697082: Created report: name=dhruvvv2
+2022-08-07 23:00:46.549268: Selected main page option 1
+2022-08-07 23:00:55.332203: Created report: name=testing
+2022-08-07 23:01:17.538866: ------ Executing Moving Avg Crossover Trading Strategy with BTCUSD, quantity: 2, run time: 10 mins ----------- 
+2022-08-07 23:01:18.857272: Fast 23307.01416666667  /  Slow: 23304.124583333334
+2022-08-07 23:01:18.959554: Position: 0 / Should Buy: True
+2022-08-07 23:01:23.277199: Symbol: BTCUSD / Side: BUY / Quantity: 2 / Price: $23310
+2022-08-07 23:01:23.394210: Sleep for 36
+2022-08-07 23:01:59.865077: ********************
+2022-08-07 23:02:00.296478: Fast 23307.140833333335  /  Slow: 23304.187916666666
+2022-08-07 23:02:00.415361: Position: 2.0 / Should Buy: True
+2022-08-07 23:02:00.525588: Sleep for 59
+2022-08-07 23:02:59.992299: ********************
+2022-08-07 23:03:00.632282: Fast 23308.188333333335  /  Slow: 23304.022916666665
+2022-08-07 23:03:00.768695: Position: 2.0 / Should Buy: True
+2022-08-07 23:03:00.880816: Sleep for 59
+2022-08-07 23:04:00.160517: ********************
+2022-08-07 23:04:00.649143: Fast 23307.484166666665  /  Slow: 23303.16791666667
+2022-08-07 23:04:00.760132: Position: 2.0 / Should Buy: True
+2022-08-07 23:04:00.876833: Sleep for 59
+2022-08-07 23:05:00.340152: ********************
+2022-08-07 23:05:00.789282: Fast 23307.252500000002  /  Slow: 23302.63333333333
+2022-08-07 23:05:00.898188: Position: 2.0 / Should Buy: True
+2022-08-07 23:05:01.005232: Sleep for 59
+2022-08-07 23:06:00.484697: ********************
+2022-08-07 23:06:00.906406: Fast 23304.117500000004  /  Slow: 23301.920833333337
+2022-08-07 23:06:01.038630: Position: 2.0 / Should Buy: True
+2022-08-07 23:06:01.149294: Sleep for 58
+2022-08-07 23:06:59.574970: ********************
+2022-08-07 23:07:00.076434: Fast 23304.114166666666  /  Slow: 23301.91916666667
+2022-08-07 23:07:00.240590: Position: 2.0 / Should Buy: True
+2022-08-07 23:07:00.352124: Sleep for 59
+2022-08-07 23:07:59.634740: ********************
+2022-08-07 23:08:00.271469: Fast 23300.764166666664  /  Slow: 23301.32166666667
+2022-08-07 23:08:00.401634: Position: 2.0 / Should Buy: False
+2022-08-07 23:08:04.645613: Symbol: BTCUSD / Side: SELL / Quantity: 2 / Price: $23261
+2022-08-07 23:08:04.755644: Sleep for 55
+2022-08-07 23:09:00.037878: ********************
+2022-08-07 23:09:00.477833: Fast 23295.211666666666  /  Slow: 23300.023333333334
+2022-08-07 23:09:00.588785: Position: 0 / Should Buy: False
+2022-08-07 23:09:00.682931: Sleep for 59
+2022-08-07 23:09:59.948403: ********************
+2022-08-07 23:10:00.348521: Fast 23291.392499999998  /  Slow: 23298.519166666665
+2022-08-07 23:10:00.473915: Position: 0 / Should Buy: False
+2022-08-07 23:10:00.571386: Sleep for 59
+2022-08-07 23:11:00.069769: ********************
+2022-08-07 23:11:00.498138: Fast 23288.86666666667  /  Slow: 23297.476250000003
+2022-08-07 23:11:00.595386: Position: 0 / Should Buy: False
+2022-08-07 23:11:00.709637: Sleep for 59
+2022-08-07 23:11:59.986525: ********************
+2022-08-07 23:14:18.015722: 
+
+Report successfully inserted into database: name=testing
+2022-08-07 23:14:18.152441: Finished created report
+
+2022-08-07 23:14:25.569061: Selected main page option 2
+2022-08-07 23:14:25.715127: Report names retrieved: ['first-tr', 'demo-strategy-2', 'second-tr', 'demo-report-1', 'tradeview', 'testing', 'dhruv2']
+2022-08-07 23:14:36.874674: Printing report: name=testing
+2022-08-07 23:14:37.040117: Retrieved report data for report id: 6
+2022-08-07 23:14:37.142441: Basic transaction report created
+2022-08-07 23:14:37.237529: Building report testing with strategy name moving-avg-crossover
+2022-08-07 23:14:37.345267: Report testing with strategy name moving-avg-crossover created
+2022-08-07 23:14:37.453624: Report written to file: testtting
+2022-08-07 23:14:37.556927: Time to generate report: 0.4708s
+2022-08-07 23:14:39.926888: Selected main page option 3
+2022-08-07 23:21:23.158682: Selected main page option 1
+2022-08-07 23:21:30.840302: Created report: name=dhruv123
+2022-08-07 23:22:02.018360: ------ Executing Coin Toss Trading Strategy with BTCUSD, quantity: 1, max buy&sell transations: 2 ----------- 
+2022-08-07 23:22:02.803805: Holding: 0 / Buy: False
+2022-08-07 23:22:02.915251: Lets wait for the 8s before next decision...
+2022-08-07 23:22:03.024232: ********************
+2022-08-07 23:22:11.498800: Holding: 0 / Buy: False
+2022-08-07 23:22:11.610846: Lets wait for the 8s before next decision...
+2022-08-07 23:22:11.708580: ********************
+2022-08-07 23:22:20.236573: Holding: 0 / Buy: True
+2022-08-07 23:22:20.343819: The almighty has decided:
+2022-08-07 23:22:24.570820: Symbol: BTCUSD / Side: BUY / Quantity: 1 / Price: $23302
+2022-08-07 23:22:24.686578: Lets wait for the 8s before next decision...
+2022-08-07 23:22:24.801815: ********************
+2022-08-07 23:22:33.123664: Holding: 1.0 / Buy: False
+2022-08-07 23:22:33.235890: The almighty has decided:
+2022-08-07 23:22:37.463887: Symbol: BTCUSD / Side: SELL / Quantity: 1 / Price: $23305
+2022-08-07 23:22:37.599428: Lets wait for the 8s before next decision...
+2022-08-07 23:22:37.730510: ********************
+2022-08-07 23:22:46.097862: Holding: 0 / Buy: True
+2022-08-07 23:22:46.219186: The almighty has decided:
+2022-08-07 23:22:50.475702: Symbol: BTCUSD / Side: BUY / Quantity: 1 / Price: $23305
+2022-08-07 23:22:50.580647: Lets wait for the 8s before next decision...
+2022-08-07 23:22:50.689092: ********************
+2022-08-07 23:22:59.205238: Holding: 1.0 / Buy: True
+2022-08-07 23:22:59.320996: Lets wait for the 8s before next decision...
+2022-08-07 23:22:59.435706: ********************
+2022-08-07 23:23:07.942930: Holding: 1.0 / Buy: False
+2022-08-07 23:23:08.044039: The almighty has decided:
+2022-08-07 23:23:12.277784: Symbol: BTCUSD / Side: SELL / Quantity: 1 / Price: $23304
+2022-08-07 23:23:12.388453: Lets wait for the 8s before next decision...
+2022-08-07 23:23:12.507116: ********************
+2022-08-07 23:23:41.684232: Created report: name=sabjd
+2022-08-07 23:23:52.454564: ------ Executing Coin Toss Trading Strategy with ETHUSD, quantity: 3, max buy&sell transations: 1 ----------- 
+2022-08-07 23:23:52.622279: Holding: 0 / Buy: True
+2022-08-07 23:23:52.727909: The almighty has decided:
+2022-08-07 23:23:56.950428: Symbol: ETHUSD / Side: BUY / Quantity: 3 / Price: $1713.4
+2022-08-07 23:23:57.053328: Lets wait for the 8s before next decision...
+2022-08-07 23:23:57.164385: ********************
+2022-08-07 23:24:05.684833: Holding: 3.0 / Buy: True
+2022-08-07 23:24:05.787731: Lets wait for the 8s before next decision...
+2022-08-07 23:24:05.894496: ********************
+2022-08-07 23:24:14.414655: Holding: 3.0 / Buy: False
+2022-08-07 23:24:14.626700: The almighty has decided:
+2022-08-07 23:24:18.845137: Symbol: ETHUSD / Side: SELL / Quantity: 3 / Price: $1712.8
+2022-08-07 23:24:18.950307: Lets wait for the 8s before next decision...
+2022-08-07 23:24:19.049483: ********************
+2022-08-07 23:24:30.139020: 
+
+Report successfully inserted into database: name=sabjd
+2022-08-07 23:24:30.239480: Finished created report
+
+2022-08-07 23:24:34.098631: Selected main page option 2
+2022-08-07 23:24:34.243793: Report names retrieved: ['first-tr', 'demo-strategy-2', 'second-tr', 'demo-report-1', 'sabjd', 'tradeview', 'testing', 'dhruv2']
+2022-08-07 23:25:04.042712: Selected main page option 2
+2022-08-07 23:25:04.441707: Report names retrieved: ['first-tr', 'demo-strategy-2', 'second-tr', 'demo-report-1', 'sabjd', 'tradeview', 'testing', 'dhruv2']
+2022-08-07 23:25:12.580438: Selected main page option 2
+2022-08-07 23:25:12.870865: Report names retrieved: ['first-tr', 'demo-strategy-2', 'second-tr', 'demo-report-1', 'sabjd', 'tradeview', 'testing', 'dhruv2']
+2022-08-07 23:25:22.265635: Printing report: name=sabjd
+2022-08-07 23:25:22.409921: Retrieved report data for report id: 5
+2022-08-07 23:25:22.526820: Basic transaction report created
+2022-08-07 23:25:22.644092: Building report sabjd with strategy name coin-toss
+2022-08-07 23:27:27.194000: Selected main page option 1
+2022-08-07 23:27:35.389221: Created report: name=tesla
+2022-08-07 23:27:48.387061: ------ Executing Coin Toss Trading Strategy with ETHUSD, quantity: 1, max buy&sell transations: 1 ----------- 
+2022-08-07 23:27:48.841308: Holding: 0 / Buy: True
+2022-08-07 23:27:49.031607: The almighty has decided:
+2022-08-07 23:27:53.254393: Symbol: ETHUSD / Side: BUY / Quantity: 1 / Price: $1714.2
+2022-08-07 23:27:53.362553: Lets wait for the 8s before next decision...
+2022-08-07 23:27:53.483497: ********************
+2022-08-07 23:28:01.847640: Holding: 1.0 / Buy: True
+2022-08-07 23:28:01.953131: Lets wait for the 8s before next decision...
+2022-08-07 23:28:02.073411: ********************
+2022-08-07 23:28:10.577440: Holding: 1.0 / Buy: True
+2022-08-07 23:28:10.683749: Lets wait for the 8s before next decision...
+2022-08-07 23:28:10.811320: ********************
+2022-08-07 23:28:19.291694: Holding: 1.0 / Buy: False
+2022-08-07 23:28:19.389841: The almighty has decided:
+2022-08-07 23:28:23.646206: Symbol: ETHUSD / Side: SELL / Quantity: 1 / Price: $1714.3
+2022-08-07 23:28:23.743999: Lets wait for the 8s before next decision...
+2022-08-07 23:28:23.847481: ********************
+2022-08-07 23:28:39.772952: 
+
+Report successfully inserted into database: name=tesla
+2022-08-07 23:28:39.876292: Finished created report
+
+2022-08-07 23:28:43.311763: Selected main page option 2
+2022-08-07 23:28:43.485721: Report names retrieved: ['first-tr', 'tesla', 'demo-strategy-2', 'second-tr', 'demo-report-1', 'sabjd', 'tradeview', 'testing', 'dhruv2']
+2022-08-07 23:28:49.369760: Printing report: name=tesla
+2022-08-07 23:28:49.519309: Retrieved report data for report id: 2
+2022-08-07 23:28:49.621497: Basic transaction report created
+2022-08-07 23:28:49.722717: Building report tesla with strategy name coin-toss
+2022-08-07 23:30:32.416925: Selected main page option 2
+2022-08-07 23:30:32.734140: Report names retrieved: ['first-tr', 'tesla', 'demo-strategy-2', 'second-tr', 'demo-report-1', 'sabjd', 'tradeview', 'testing', 'dhruv2']
+2022-08-07 23:30:43.950849: Printing report: name=tesla
+2022-08-07 23:30:44.097048: Retrieved report data for report id: 2
+2022-08-07 23:30:44.200928: Basic transaction report created
+2022-08-07 23:30:44.317248: Building report tesla with strategy name coin-toss
+2022-08-07 23:31:11.862775: Selected main page option 2
+2022-08-07 23:31:12.140629: Report names retrieved: ['first-tr', 'tesla', 'demo-strategy-2', 'second-tr', 'demo-report-1', 'sabjd', 'tradeview', 'testing', 'dhruv2']
+2022-08-07 23:31:23.273336: Printing report: name=first-tr
+2022-08-07 23:31:23.507156: Retrieved report data for report id: 1
+2022-08-07 23:31:23.620377: Basic transaction report created
+2022-08-07 23:31:23.732554: Building report first-tr with strategy name coin-toss
+2022-08-07 23:31:23.845960: Report first-tr with strategy name coin-toss created
+2022-08-07 23:31:23.949652: Report written to file: first-trrr
+2022-08-07 23:31:24.054332: Time to generate report: 0.5728s
+2022-08-07 23:38:52.701950: Selected main page option 3
+2022-08-07 23:39:36.426397: Selected main page option 1
+2022-08-07 23:39:41.173278: Created report: name=tesla
+2022-08-07 23:40:00.399598: Selected main page option 1
+2022-08-07 23:40:06.823985: Created report: name=1
+2022-08-07 23:40:38.606451: Selected main page option 1
+2022-08-07 23:40:50.361209: Created report: name=teslaa
+2022-08-07 23:41:00.585180: ------ Executing Coin Toss Trading Strategy with BTCUSD, quantity: 2, max buy&sell transations: 1 ----------- 
+2022-08-07 23:41:01.084306: Holding: 0 / Buy: False
+2022-08-07 23:41:01.186233: Lets wait for the 8s before next decision...
+2022-08-07 23:41:01.292827: ********************
+2022-08-07 23:41:09.783314: Holding: 0 / Buy: True
+2022-08-07 23:41:09.879025: The almighty has decided:
+2022-08-07 23:41:14.113290: Symbol: BTCUSD / Side: BUY / Quantity: 2 / Price: $23305
+2022-08-07 23:41:14.219862: Lets wait for the 8s before next decision...
+2022-08-07 23:41:14.323268: ********************
+2022-08-07 23:41:22.641311: Holding: 2.0 / Buy: True
+2022-08-07 23:41:22.744380: Lets wait for the 8s before next decision...
+2022-08-07 23:41:22.849235: ********************
+2022-08-07 23:41:31.180389: Holding: 2.0 / Buy: True
+2022-08-07 23:41:31.283900: Lets wait for the 8s before next decision...
+2022-08-07 23:41:31.392609: ********************
+2022-08-07 23:41:39.925354: Holding: 2.0 / Buy: True
+2022-08-07 23:41:40.036008: Lets wait for the 8s before next decision...
+2022-08-07 23:41:40.149240: ********************
+2022-08-07 23:41:48.627286: Holding: 2.0 / Buy: True
+2022-08-07 23:41:48.762149: Lets wait for the 8s before next decision...
+2022-08-07 23:41:48.872445: ********************
+2022-08-07 23:41:57.384414: Holding: 2.0 / Buy: False
+2022-08-07 23:41:57.485449: The almighty has decided:
+2022-08-07 23:42:01.706583: Symbol: BTCUSD / Side: SELL / Quantity: 2 / Price: $23319
+2022-08-07 23:42:01.823484: Lets wait for the 8s before next decision...
+2022-08-07 23:42:01.943576: ********************
+2022-08-07 23:42:16.056577: 
+
+Report successfully inserted into database: name=teslaa
+2022-08-07 23:42:16.154358: Finished created report
+
+2022-08-07 23:42:20.222703: Selected main page option 2
+2022-08-07 23:42:20.373027: Report names retrieved: ['first-tr', 'demo-strategy-2', 'second-tr', 'teslaa', 'demo-report-1', 'tradeview', 'testing', 'dhruv2']
+2022-08-07 23:42:40.363843: Printing report: name=teslaa
+2022-08-07 23:42:40.515711: Retrieved report data for report id: 4
+2022-08-07 23:42:40.613103: Basic transaction report created
+2022-08-07 23:42:40.724395: Building report teslaa with strategy name coin-toss
+2022-08-07 23:42:40.830464: Report teslaa with strategy name coin-toss created
+2022-08-07 23:42:40.937777: Report written to file: teslaa
+2022-08-07 23:42:41.042681: Time to generate report: 0.4668s
+2022-08-07 23:44:41.450257: Selected main page option 3
+2022-08-07 23:50:41.123627: Selected main page option 1
+2022-08-07 23:50:52.326230: Created report: name=asbdhba
+2022-08-07 23:51:00.311884: ------ Executing Coin Toss Trading Strategy with ETHUSD, quantity: 2, max buy&sell transations: 1 ----------- 
+2022-08-07 23:51:00.787496: Holding: 0 / Buy: True
+2022-08-07 23:51:00.879703: The almighty has decided:
+2022-08-07 23:51:05.101052: Symbol: ETHUSD / Side: BUY / Quantity: 2 / Price: $1712.3
+2022-08-07 23:51:05.207023: Lets wait for the 8s before next decision...
+2022-08-07 23:51:05.317501: ********************
+2022-08-07 23:51:13.830230: Holding: 2.0 / Buy: True
+2022-08-07 23:51:13.932915: Lets wait for the 8s before next decision...
+2022-08-07 23:51:14.038254: ********************
+2022-08-07 23:51:22.545281: Holding: 2.0 / Buy: False
+2022-08-07 23:51:22.648377: The almighty has decided:
+2022-08-07 23:51:26.875293: Symbol: ETHUSD / Side: SELL / Quantity: 2 / Price: $1712.2
+2022-08-07 23:51:26.981036: Lets wait for the 8s before next decision...
+2022-08-07 23:51:27.081993: ********************
+2022-08-08 00:01:57.283753: 
+
+Report successfully inserted into database: name=asbdhba
+2022-08-08 00:01:57.384565: Finished created report
+
+2022-08-08 00:02:05.272003: Selected main page option 2
+2022-08-08 00:02:05.426230: Report names retrieved: ['first-tr', 'demo-strategy-2', 'asbdhba', 'second-tr', 'teslaa', 'demo-report-1', 'tradeview', 'testing', 'dhruv2']
+2022-08-08 00:09:05.373082: Printing report: name=asbdhba
+2022-08-08 00:09:05.690368: Retrieved report data for report id: 3
+2022-08-08 00:09:05.798418: Basic transaction report created
+2022-08-08 00:09:05.908078: Building report asbdhba with strategy name coin-toss
+2022-08-08 00:09:06.018777: Report asbdhba with strategy name coin-toss created
+2022-08-08 00:09:06.118104: Report written to file: asbdhba
+2022-08-08 00:09:06.217658: Time to generate report: 0.6459s
+2022-08-08 00:09:08.399238: Selected main page option 3
